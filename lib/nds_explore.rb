@@ -12,7 +12,7 @@ end
 
 
 def print_first_directors_movie_titles
-  
+  movies = directors_database
 end
 
 # [{:name=>"Stephen Spielberg",
